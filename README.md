@@ -1,6 +1,8 @@
 # pro1-modsample
 
-Firmware for the Behringer Pro1 ModSample modification.
+Firmware for the Behringer Pro-1 ModSample modification for the Raspberry PI Pico.
+
+The ModSample can add low-fi sample playing capability to the synthetizer, which can then be processed by the Pro-1 filter and amplifier and summed to the other two oscillators.
 
 ## Building
 
