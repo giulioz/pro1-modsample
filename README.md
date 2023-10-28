@@ -4,16 +4,17 @@ Firmware for the Behringer Pro-1 ModSample modification for the Raspberry PI Pic
 
 The ModSample can add low-fi sample playing capability to the synthetizer, which can then be processed by the Pro-1 filter and amplifier and summed to the other two oscillators.
 
-## Building
+## Building the Hardware
 
-### Sync 
-```
-git clone https://github.com/giulioz/pro1-modsample.git
-```
+You can build your PCB from this [Flux project](https://www.flux.ai/giulioz/pro-1-modsample-template).
 
-### Make 
+![PCB](./docs/pcb_3d.png)
+
+## Building the Firmware
+
 Build project using cmake. This requires Raspberry Pi Pico C/C++ SDK to be installed. 
 ```
+git clone https://github.com/giulioz/pro1-modsample.git
 mkdir build
 cd build
 cmake ..
