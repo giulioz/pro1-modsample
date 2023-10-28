@@ -6,7 +6,7 @@ The ModSample can add low-fi sample playing capability to the synthetizer, which
 
 ## Building the Hardware
 
-You can build your PCB from this [Flux project](https://www.flux.ai/giulioz/pro-1-modsample-template).
+You can build your PCB from this [Flux project](https://www.flux.ai/giulioz/pro-1-modsample).
 
 ![PCB](./docs/pcb_3d.png)
 
